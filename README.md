@@ -47,3 +47,6 @@ This project performs sentiment analysis on Flipkart product reviews using Natur
 ## 🔥 Future Improvements  
 - Implement deep learning models (LSTMs, transformers) for better accuracy.  
 - Deploy the model as a web app using Flask or FastAPI.
+
+  *OutPut*:
+  ![Image](https://github.com/user-attachments/assets/98df15d7-b031-403c-b8e4-bc1553ed5475)
